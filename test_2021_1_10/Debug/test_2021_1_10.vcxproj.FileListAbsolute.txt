@@ -1,0 +1,2 @@
+E:\Development\2021_code\c_test\test_2021_1_10\Debug\test_2021_1_10.exe
+E:\Development\2021_code\c_test\test_2021_1_10\Debug\test_2021_1_10.pdb
